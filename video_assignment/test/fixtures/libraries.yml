@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  youtube_url: MyString
+  start_time: MyString
+  end_time: MyString
+
+two:
+  title: MyString
+  youtube_url: MyString
+  start_time: MyString
+  end_time: MyString
